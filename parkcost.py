@@ -42,3 +42,9 @@ def solution(fees, records):
             
     
     return answer
+
+# datetime 모듈 사용하는 방법 
+'''
+datetime.strptime("23:44",'%H,%M')
+timedelta는 days랑 seconds 제공 
+'''
